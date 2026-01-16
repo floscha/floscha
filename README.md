@@ -3,4 +3,4 @@
 # 👋 Welcome to my GitHub profile!
 
 I'm a data engineer from Germany, specialized in AWS and Databricks.
-In the last years, I have lived in Sweden and Switzerland, now planning to move to 🇩🇰 Denmark.
+In the last years, I have lived in Sweden, Switzerland, and Germany.
